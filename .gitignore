@@ -1,4 +1,10 @@
 # compiled output
+node_modules
+node_modules/
+jspm_packages
+jspm_packages/
+.serverless
+.serverless/
 .vscode
 .vscode/
 *.code-workspace
@@ -15,6 +21,7 @@ target/
 /.gradle
 .gradle/**
 gradle/**
+package-lock.json
 
 # IDEs and editors
 /.idea
