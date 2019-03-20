@@ -39,3 +39,11 @@ kill $(lsof -t -i :9080) &
 `````
 docker login
 `````
+
+
+## OpenSSL - self-signed cert
+#### Creating the SSL Certificate
+`````
+sudo openssl req -x509 -nodes -days 3650 -newkey rsa:2048 -keyout config/cert/localhost.key -out config/cert/localhost.crt
+`````
+
