@@ -41,6 +41,7 @@ package-lock.json
 /libpeerconnection.log
 npm-debug.log
 testem.log
+*.log
 /typings
 
 # System Files
