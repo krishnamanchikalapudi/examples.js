@@ -1,0 +1,16 @@
+{
+    "name": "simpleweb",
+    "version": "0.1.0",
+    "description": "A simple website built with NodeJs",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "pug": "^2.0.4"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.4"
+    }
+}
