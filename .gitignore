@@ -7,7 +7,6 @@ jspm_packages/
 .serverless/
 .vscode
 .vscode/
-*.code-workspace
 .gradle/
 .class
 /bin
@@ -16,11 +15,7 @@ bin/
 build/
 /build-eclipse
 build-eclipse/
-/target
-target/
-/.gradle
-.gradle/**
-gradle/**
+
 package-lock.json
 
 # IDEs and editors
@@ -44,6 +39,7 @@ npm-debug.log
 testem.log
 *.log
 /typings
+*.lock
 
 # System Files
 .DS_Store

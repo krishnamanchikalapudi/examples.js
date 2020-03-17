@@ -1,57 +1,22 @@
-## Local run
-### Runs the app in the development mode
-``````
-npm start
-``````
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-### Builds the app for production to the build folder
-``````
-npm run build
-``````
+### `npm start`
 
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Container
-### Building the Docker image & patter 'docker build -t <YOUR_USERNAME>/<APP_NAME> .'
-`````
-docker build -t socialauth:latest .
-`````
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-### Run a command in a new container & pattern  'docker container run -p 8888:5000 APP_NAME:latest
-`````
-docker container run -d -p 80:80 socialauth:latest
-`````
+### `npm test`
 
-### List container command & pattern  'docker container ls -a'
-`````
-docker container ls -a
-`````
-
-### Delete or Remove images
-`````
-docker image rm socialauth
-`````
-
-### Stop containers & pattern  'docker container stop CONTAINER_ID'
-`````
-container_id=`docker container ls -a | grep socialauth | awk '{print $1}'`
-docker container stop $container_id && docker system prune -f
-`````
-
-## ERRORs
-#### unauthorized: incorrect username or password
-`````
-docker login
-`````
-
-## OpenSSL - self-signed cert
-#### Creating the SSL Certificate
-`````
-sudo openssl req -x509 -nodes -days 3650 -newkey rsa:2048 -keyout config/cert/localhost.key -out config/cert/localhost.crt
-`````
+Launches the test runner in the interactive watch mode.<br>
 
 
-## Other
-### kill process
-`````
-kill -9 $(lsof -t -i :3000) &
-`````
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
