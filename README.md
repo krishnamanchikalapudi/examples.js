@@ -1,8 +1,8 @@
 # examples.js
-* ![GitHub language count](https://img.shields.io/github/languages/count/krishnamanchikalapudi/examples.js)
-![GitHub last commit](https://img.shields.io/github/last-commit/krishnamanchikalapudi/examples.js)
-![GitHub repo size](https://img.shields.io/github/repo-size/krishnamanchikalapudi/examples.js)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/krishnamanchikalapudi/examples.js)
+* ![GitHub language count](https://img.shields.io/github/languages/count/krishnamanchikalapudi/examples.js) 
+![GitHub last commit](https://img.shields.io/github/last-commit/krishnamanchikalapudi/examples.js) 
+![GitHub repo size](https://img.shields.io/github/repo-size/krishnamanchikalapudi/examples.js) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/krishnamanchikalapudi/examples.js) 
 
 * [![GitHub stars](https://img.shields.io/github/stars/krishnamanchikalapudi/examples.js.svg)](https://github.com/krishnamanchikalapudi/examples.js/stargazers)
 ![GitHub followers](https://img.shields.io/github/followers/krishnamanchikalapudi?style=social)
