@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "create-react-app": "^4.0.0",
+    "create-react-app": "^5.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
     "react-s-alert": "^1.4.1",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "snyk": "^1.316.1"
   },
   "scripts": {
