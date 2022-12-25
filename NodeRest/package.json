@@ -20,7 +20,7 @@
   "license": "MIT public 2.0",
   "private": true,
   "dependencies": {
-    "config": "^2.0.1",
+    "config": "^3.3.1",
     "connect": "^3.2.0",
     "js-yaml": "^3.3.0",
     "swagger-tools": "0.10.4",
