@@ -20,3 +20,7 @@
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkrishnamanchikalapudi%2Fexamples.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkrishnamanchikalapudi%2Fexamples.js?ref=badge_large)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishnamanchikalapudi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/krishnamanchikalapudi)
+
